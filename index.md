@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
   <head><meta property="fb:pages" content="103795031066922" /></head>
 <body>
