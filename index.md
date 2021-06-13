@@ -1,5 +1,5 @@
 <html>
-  <head><meta property="fb:pages" content="103795031066922" /></head>
+  <head><meta name="facebook-domain-verification" content="3to2csxeg0anrgdmdvuhb4k0yyk793" /></head>
 <body>
 <h1>Facebook Articles</h1>
 
